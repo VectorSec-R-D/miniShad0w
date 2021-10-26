@@ -1,0 +1,1 @@
+cl.exe /nologo /Od /MT /W0 /GS- /DNDEBUG /Tc *.c /link /NODEFAULTLIB /ENTRY:main /OUT:implant.exe /SUBSYSTEM:CONSOLE /MACHINE:x86
