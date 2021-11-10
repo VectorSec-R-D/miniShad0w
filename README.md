@@ -6,4 +6,4 @@ It resurrects itself after crash.
 
 The server cnc is taken and modified from ``bats3c/shad0w`` and is unstable, prone to bugs. 
 
-I don't have plan to take it further, but to archive it. Pull requests are welcome.
+archive it. Pull requests are welcome.
